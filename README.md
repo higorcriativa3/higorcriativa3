@@ -9,7 +9,7 @@ Improving myself to improve my code.
 
 <div align="center">
   <a href="https://github.com/higorcriativa3">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorcriativa3&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorcriativa3&show_icons=true&theme=tokyonight&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorcriativa3&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
