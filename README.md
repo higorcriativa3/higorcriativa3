@@ -1,5 +1,5 @@
 <h1 align='center'>
-<a href="https://higorcriativa3.github.io/higorcriativa" target="__blank">🔗 Higor Rocha</a>
+<a href="https://higorcriativa3.github.io/higorcriativa3" target="__blank">🔗 Higor Rocha</a>
 </h1>
 
 <p align='center'>
@@ -31,7 +31,7 @@ Improving myself to improve my code.
 </div>
 
 <p align='center'>
-  Personal site: <a href='https://higorcriativa3.github.io/higorcriativa' target='__blank'>Higor Rocha</a>
+  Personal site: <a href='https://higorcriativa3.github.io/higorcriativa3' target='__blank'>Higor Rocha</a>
 </p>
 
 <details>
