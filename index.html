@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://unpkg.com/augmented-ui@2.0.0/augmented-ui.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.35.0/codemirror.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/addon/scroll/simplescrollbars.min.css">
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/codemirror.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/mode/javascript/javascript.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/mode/css/css.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/addon/scroll/simplescrollbars.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/mode/markdown/markdown.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/mode/htmlmixed/htmlmixed.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.58.1/mode/xml/xml.js"></script>
+    <script src="https://kit.fontawesome.com/49958807dc.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+    <!-- Social media bar -->
+    <div class="st-mediabar">
+        <ul class="st-table-content">        
+            <li class="github">
+                <a href="https://github.com/higorcriativa3"><i class="fab fa-github"></i></a>
+                <span>Github</span>
+            </li>
+            <li class="instagram">
+                <a href="https://www.instagram.com/programadorhigor"><i class="fab fa-instagram"></i></a>
+                <span>Instagram</span>
+            </li>
+            <li class="file">
+                <a href="https://drive.google.com/file/d/1IBoWn3_QNfLcsW8T5vC-JFOvrlVRqTCB/view?usp=sharing"><i class="fab fa-file-word"></i></a>
+                <span>Curriculum</span>
+            </li>
+
+            
+        </ul>
+    </div>
+
+    <!-- Augment -->
+    <code class="code-container">
+    <input class="sig" value="// Higor Rocha 2024">
+    <div class="glow-container">
+      <div class="augs" data-augmented-ui></div>
+    </div>
+    <section class="augs bg" data-augmented-ui>
+        <button class="dots" onclick="changeMode(this)" title="(click to change) Current Mode: css"></button>
+        <input class="title" value="higorrocha.io">
+        <div class="code highcontrast-dark">
+            <textarea id="code">
+                back-end.developer {
+                    since: 2012;
+                }
+                
+                :technologies {
+                    php: master;
+                    laravel: master;
+                    mysql: professional;
+                    nodeJs: professional;
+                    typescript: professional;
+                }
+
+                design-pattern {
+                    MVC: Model View Controller;
+                    DDD: Domain Driven Desing;
+                    clean-code: 💜;
+                }
+                
+                /* contact me */
+                email {
+                    send-to: programadorhigor@gmail.com
+                }
+
+                /* social media */
+                find-me-at {
+                    instagram: @programadorhigor;
+                    github: higorcriativa3
+                }
+            </textarea>
+        </div>
+    </section>
+
+    <!-- Parallax Background -->
+    <div id='stars'></div>
+    <div id='stars2'></div>
+    <div id='stars3'></div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
