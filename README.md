@@ -43,6 +43,13 @@ Improving myself to improve my code.
   📍 **UNINTER** - Belo Horizonte/BH, Brazil (Graduated at 2017)
 
   ## Experience
+  👨‍💻 **Tech Lead**\
+  📆 Apr/2025 - Moment\
+  📍 **Paag** - Belo Horizonte/MG, Brazil
+
+  - 👨‍💻 **Back-end Developer**\
+  📆 Nov/2024 - Apr/2025\
+  📍 **Paag** - Belo Horizonte/MG, Brazil
 
   - 👨‍💻 **Back-end Developer**\
   📆 Feb/2022 - Moment\
